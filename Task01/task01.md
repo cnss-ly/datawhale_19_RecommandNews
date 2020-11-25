@@ -24,7 +24,7 @@ embedding就解决了这两个问题：
 
 
 
-![1540240-20190622144900457-521195357](/home/cnss/code/gitfile/github/datawhale_19_RecommandNews/Task01/1540240-20190622144900457-521195357.jpg)
+![1540240-20190622144900457-521195357](1540240-20190622144900457-521195357.jpg)
 
 
 
@@ -48,7 +48,7 @@ embedding就解决了这两个问题：
 
 用ｖｉｒｔｕａｌｅｎｖ创建虚拟环境，安装第三方库．
 
-添加 import collections
+代码修改，添加 import collections
 
 修改数据文件名为data_raw,在同目录下建立tmp_results文件夹．
 
